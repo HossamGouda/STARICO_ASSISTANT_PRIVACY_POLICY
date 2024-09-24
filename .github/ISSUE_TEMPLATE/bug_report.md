@@ -4,6 +4,7 @@ description: Report a bug or issue with the extension.
 title: "[BUG]"
 labels: bug
 assignees: ''
+about: This template is for reporting bugs encountered while using the Straico Assistant extension.
 
 ---
 
