@@ -12,7 +12,7 @@ Thank you for using Straico Assistant. This privacy policy describes how we hand
 
 ## Features of the Extension
 
-- **Attach Page Content:** Users have the option to attach the content of the current web page by clicking the clip icon. This action does not involve sending any information outside of your local environment.
+- **Attach Page Content:** Users have the option to attach the content of the current web page by clicking the clip icon. This action does not involve sending any information outside of your local environment and The Straico API.
 
 ## Security
 
